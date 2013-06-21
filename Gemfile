@@ -1,0 +1,1 @@
+gem "zabbixapi", "0.5.9.1"
